@@ -365,7 +365,7 @@
         <!-- <module name="TodoComment" /> -->
         <!-- <module name="TrailingComment"/> -->
         <module name="UncommentedMain">
-            <property name="excludedClasses" value="Application|Main"/>
+            <property name="excludedClasses" value="Application|ReflectionBenchmark"/>
         </module>
         <module name="UpperEll"/>
 
